@@ -1,0 +1,31 @@
+.black {
+  background-color: black;
+
+
+}
+
+.white {
+  background-color: white;
+
+}
+
+
+td {
+  border: 1px solid black;
+  height: 50px;
+  width: 50px;
+}
+
+table {
+  border: 10px outset;
+  border-spacing: 0px;
+  margin: 5% auto;
+  position: relative;
+
+}
+
+body {
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+}
